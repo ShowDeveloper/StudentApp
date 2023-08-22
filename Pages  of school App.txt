@@ -1,0 +1,13 @@
+   
+                 STUDENT'S MONITOR
+   HOME PAGE                            STUDENT PROFILE               STUDENT INFORMATION                         PROGRESS REPOTS           
+
+school name                            student's name                 subjects offering                           Attendance                     
+motto                                  class                          class teacher name                          Academic Progress
+registration number                    age,sex                        class Teacher's contact                     Sport Activities
+graphics                               parent's name                                                               Awards and Laurels                                     
+Address                                student picture                     
+phone number                                               
+Email                                                                 Facebook                               
+Instagram 
+twitter
